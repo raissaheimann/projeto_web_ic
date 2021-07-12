@@ -1,0 +1,57 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 100%;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-photo{
+    margin-left: 68%;
+    width: 29%;
+    margin-top: -68%;
+    margin-bottom: 60%;
+}
+
+.right-menu img:hover{
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.2);
+}
+
+.bike,.catimbau, .pedra{
+    width: 400px;
+    height: 300px;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    font-size: 38px;
+    color: maroon;
+}
+
+h3{
+    font-size: 25px;
+    color: maroon;
+}
+
+.container{
+    font-style: italic;
+}
+
+a{
+    font-size: 25px;
+    color: rgb(139, 34, 34);
+}
+
+.hobbies{
+    font-size: 23px;
+    color: rgb(12, 53, 53);
+    font-weight: bold;
+    text-align: center;
+    
+}
